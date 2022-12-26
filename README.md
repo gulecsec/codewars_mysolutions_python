@@ -11,7 +11,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 <br>
 
-| Kata(s) | Solution(s) | Subject | CW Link |
+| Kata(s) | Subject | Kata Link |
 |--|--|--|--|
 | [**Sudoku Solution Validator**](4kyuKatas/Sudoku_Solution_Validator.md) | `DATA STRUCTURES`, `ALGORITHMS` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
 
