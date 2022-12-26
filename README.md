@@ -3,7 +3,7 @@
 
 Join [CodeWars](https://www.codewars.com/r/hbGshA)
 
-Follow [me](https://www.codewars.com/users/GulecS)!
+Follow [me](https://www.codewars.com/users/GulecS)😎
 
 ---
 
