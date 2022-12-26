@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <a href="https://www.codewars.com/users/GulecS"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"> Python My Solutions ✅</h1>
+<h1 align="center"><Welcome to <a href="https://www.codewars.com/users/GulecS"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">< Python My Solutions ✅</h1>
 
 Join <a href="https://www.codewars.com/users/GulecS"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"> and follow [me](https://www.codewars.com/users/GulecS)!
 
