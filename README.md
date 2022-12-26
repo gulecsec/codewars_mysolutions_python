@@ -1,4 +1,4 @@
-# CodeWars Python My Solutions
+<h1 align="center">Welcome to CodeWars Python My Solutions :sparkles:</h1>
 
 Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.codewars.com/users/GulecS)!
 
