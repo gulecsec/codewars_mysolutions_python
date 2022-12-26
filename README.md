@@ -18,3 +18,15 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 <br>
 
 ---
+
+## 5kyu Kata Practices
+
+<br>
+
+| Kata(s) | Subject | Kata Link |
+|--|--|--|
+| [**Sum of Digits / Digital Root**](5kyuKatas/Sudoku_Solution_Validator.md) | `DATA STRUCTURES`, `ALGORITHMS` | [link](https://www.codewars.com/kata/541c8630095125aba6000c00) |
+
+<br>
+
+---
