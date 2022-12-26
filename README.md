@@ -13,7 +13,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
-| [**Sudoku Solution Validator**](4kyuKatas/Sudoku_Solution_Validator.md)  | 1 | `DATA STRUCTURES`, `ALGORITHMS` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
+| [**Sudoku Solution Validator**](4kyuKatas/Sudoku_Solution_Validator.md) | `DATA STRUCTURES`, `ALGORITHMS` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
 
 <br>
 
