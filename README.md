@@ -1,6 +1,7 @@
 <h1 align="center"><Welcome to <a href="https://www.codewars.com/users/GulecS"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"> My Solutions ✅</h1>
 
-Join <a href="https://www.codewars.com/users/GulecS"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"> and follow [me](https://www.codewars.com/users/GulecS)!
+Join [CodeWars](https://www.codewars.com/r/hbGshA) 
+Wannafollow [me](https://www.codewars.com/users/GulecS)!
 
 ---
 
