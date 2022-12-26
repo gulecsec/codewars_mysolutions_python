@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to CodeWars Python My Solutions ✅</h1>
 
 Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.codewars.com/users/GulecS)!
-
+<a href="https://www.codewars.com/users/GulecS"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 ---
 
 ## 4kyu Katas
