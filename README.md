@@ -7,7 +7,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 ---
 
-## 4kyu Katas
+## 4kyu Kata Practices
 
 <br>
 
