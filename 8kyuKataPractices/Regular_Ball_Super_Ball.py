@@ -1,3 +1,6 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+class Ball(object):
+    
+    def __init__(self, ball_type = 'regular'):
+        self.ball_type = ball_type
+ball1 = Ball()
+ball2 = Ball('super')

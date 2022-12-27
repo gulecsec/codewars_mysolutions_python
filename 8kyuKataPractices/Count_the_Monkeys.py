@@ -1,3 +1,2 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+def monkey_count(n):
+    return list(range(1,n+1))

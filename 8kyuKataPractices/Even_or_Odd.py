@@ -1,3 +1,5 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+def even_or_odd(number):
+    if number %2 == 0 or number == 0:
+        return "Even"
+    else:
+        return "Odd"

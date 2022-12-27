@@ -1,3 +1,6 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+def positive_sum(arr):
+    sum = 0
+    for i in arr:
+        if i > 0:
+            sum += i
+    return sum

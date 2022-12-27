@@ -1,5 +1,2 @@
-def is_flush(cards):
-    for i in range(len(cards)-1):
-        if cards[i][-1] != cards[i+1][-1]:
-            return False
-    return True
+def manhattan_distance(pointA, pointB):
+    return abs(pointA[0] - pointB[0]) + abs(pointA[1] - pointB[1])

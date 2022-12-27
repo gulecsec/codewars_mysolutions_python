@@ -1,5 +1,7 @@
-def is_flush(cards):
-    for i in range(len(cards)-1):
-        if cards[i][-1] != cards[i+1][-1]:
-            return False
-    return True
+def find_it(seq):
+    
+    for i in seq:
+        if seq.count(i) % 2 == 1:
+            return i
+            
+    return None

@@ -1,3 +1,2 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+def get_count(sentence):
+    return sum(i in 'aeiou' for i in sentence)

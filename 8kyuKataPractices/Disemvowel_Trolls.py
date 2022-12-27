@@ -1,3 +1,8 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+def disemvowel(string_):
+    vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
+    result = ""
+
+    for i in range(len(string_)):
+        if string_[i] not in vowels:
+            result = result + string_[i]
+    return result

@@ -1,3 +1,2 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+def square_sum(numbers):
+    return sum(x ** 2 for x in numbers)

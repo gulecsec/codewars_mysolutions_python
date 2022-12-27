@@ -1,5 +1,2 @@
-def is_flush(cards):
-    for i in range(len(cards)-1):
-        if cards[i][-1] != cards[i+1][-1]:
-            return False
-    return True
+def number(lines):
+    return ["{}: {}".format(str(i+1), c) for i,c in enumerate(lines)]

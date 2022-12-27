@@ -1,3 +1,9 @@
-class Person:
-    def __init__(self, name,age):
-        self.info = "{}s age is {}".format(name, age)
+class Ship:
+    def __init__(self, draft, crew):
+        self.draft = draft
+        self.crew = crew
+    
+    def is_worth_it(self):
+        return self.draft - 1.5 * self.crew >= 20
+    
+    print(is_worth_it)

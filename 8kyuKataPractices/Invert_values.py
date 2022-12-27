@@ -1,2 +1,2 @@
-def dna_to_rna(dna):
-    return dna.upper().replace('T','U')
+def invert(lst):
+    return [-i for i in lst]
