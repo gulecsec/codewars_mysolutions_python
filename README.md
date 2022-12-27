@@ -46,7 +46,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 | [**Opposites Attract**](8kyuKataPractices/Opposites_Attract.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
 | [**Split The Bill**](8kyuKataPractices/Split_The_Bill.md) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
 | [**Is n divisible by x and y?**](8kyuKataPractices/Is_n_divisible_by_x_and_y.md) | `REFACTORING` | [link](https://www.codewars.com/kata/5545f109004975ea66000086) |
-| [**Hello, Name or World**](8kyuKataPractices/Hello, Name or World.md) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/57e3f79c9cb119374600046b) |
+| [**Hello, Name or World!**](8kyuKataPractices/Hello_Name_or_World.md) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/57e3f79c9cb119374600046b) |
 | [**Area or Perimeter**](8kyuKataPractices/Area_or_Perimeter.md) | `FUNDAMENTALS`, `MATHEMATICS`, `GEOMETRY` | [link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) |
 | [**Keep Hydrated!**](8kyuKataPractices/Keep_Hydrated.md) | `ALGORITHMS`, `MATHEMATICS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/582cb0224e56e068d800003c) |
 | [**Is the string uppercase?**](8kyuKataPractices/Is_the_string_uppercase.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) |
