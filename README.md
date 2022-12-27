@@ -30,3 +30,17 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 <br>
 
 ---
+
+## 8kyu Kata Practices
+
+<br>
+
+| Kata(s) | Subject | Kata Link |
+|--|--|--|
+| [**DNA to RNA Conversion**](8kyuKatas/DNA_to_RNA_Conversion.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
+| [**Multiply**](8kyuKatas/Multiply
+.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
+
+<br>
+
+---
