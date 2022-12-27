@@ -8,6 +8,5 @@ def grabscrab(said, possible_words):
         elif sorted(possible_words[i]) == meaning:
                 result.append(possible_words[i])
 
-
     print(result)
     return result
