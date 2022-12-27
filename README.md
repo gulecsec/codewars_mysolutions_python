@@ -13,7 +13,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 | Kata(s) | Subject | Kata Link |
 |--|--|--|
-| [**Sudoku Solution Validator**](4kyuKatas/Sudoku_Solution_Validator.md) | `DATA STRUCTURES`, `ALGORITHMS` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
+| [**Sudoku Solution Validator**](4kyuKataPractices/Sudoku_Solution_Validator.md) | `DATA STRUCTURES`, `ALGORITHMS` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
 
 <br>
 
@@ -25,7 +25,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 | Kata(s) | Subject | Kata Link |
 |--|--|--|
-| [**Split The Bill**](7kyuKatas/Split_The_Bill.md) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
+| [**Split The Bill**](7kyuKataPractices/Split_The_Bill.md) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
 
 <br>
 
@@ -37,11 +37,11 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 | Kata(s) | Subject | Kata Link |
 |--|--|--|
-| [**DNA to RNA Conversion**](8kyuKatas/DNA_to_RNA_Conversion.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
-| [**Multiply**](8kyuKatas/Multiply.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
-| [**Are You Playing Banjo?**](8kyuKatas/Are_You_Playing_Banjo.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832) |
-| [**Opposites Attract**](8kyuKatas/Opposites_Attract.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
-| [**Split The Bill**](8kyuKatas/Split_The_Bill.md) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
+| [**DNA to RNA Conversion**](8kyuKataPractices/DNA_to_RNA_Conversion.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
+| [**Multiply**](8kyuKataPractices/Multiply.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
+| [**Are You Playing Banjo?**](8kyuKataPractices/Are_You_Playing_Banjo?.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832) |
+| [**Opposites Attract**](8kyuKataPractices/Opposites_Attract.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
+| [**Split The Bill**](8kyuKataPractices/Split_The_Bill.md) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
 
 <br>
 
