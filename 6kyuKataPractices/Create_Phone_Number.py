@@ -1,17 +1,12 @@
-def spin_words(sentence):
-    listo = sentence.split()
-    string = ''
-    if len(listo) < 2:
-        if len(sentence) > 4:
-            string += sentence[::-1]
+def create_phone_number(n):
+    str1 = ""
+    str2 = ""
+    str3 = ""
+    for i in range(len(n)):
+        if 0 <= i < 3:
+            str1 += str(n[i])
+        elif 3 <= i < 6:
+            str2 += str(n[i])
         else:
-            string += sentence
-        return string
-    else:
-        string2 = []
-        for i in range(len(listo)):
-            if len(listo[i]) > 4:
-                string2.append(listo[i][::-1])
-            else:
-                string2.append(listo[i])
-        return " ".join(string2)
+            str3 += str(n[i])
+    return "("+str1+") "+str2+"-"+str3
