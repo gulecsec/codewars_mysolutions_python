@@ -39,7 +39,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 |--|--|--|
 | [**DNA to RNA Conversion**](8kyuKatas/DNA_to_RNA_Conversion.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
 | [**Multiply**](8kyuKatas/Multiply.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
-| [**Are You Playing Banjo?**](8kyuKatas Are_You_Playing_Banjo.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832) |
+| [**Are You Playing Banjo?**](8kyuKatas/Are_You_Playing_Banjo.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832) |
 | [**Opposites Attract**](8kyuKatas/Opposites_Attract.md) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
 | [**Split The Bill**](8kyuKatas/Split_The_Bill.md) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
 
