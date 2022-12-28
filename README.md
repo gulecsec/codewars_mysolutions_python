@@ -58,7 +58,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 | [**Return a string's even characters**](7kyuKataPractices/Return_a_strings_even_characters.py) | `FUNDAMENTALS`, `STRINGS`, `ARRAYS` | [link](https://www.codewars.com/kata/566044325f8fddc1c000002c) |
 | [**Running out of space**](7kyuKataPractices/Running_out_of_space.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/56576f82ab83ee8268000059) |
 | [**Split The Bill**](7kyuKataPractices/Split_The_Bill.py) | `FUNDAMENTALS`, `OBJECT-ORIENTED PROGRAMMING`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/5641275f07335295f10000d0) |
-| [**Sum of two lowest positive integers**](7kyuKataPractices/Sum_of_two lowest_positive_integers.py) | `ARRAYS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
+| [**Sum of two lowest positive integers**](7kyuKataPractices/Sum_of_two_lowest_positive_integers.py) | `ARRAYS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
 | [**Testing 1-2-3**](7kyuKataPractices/Testing_1_2_3.py) | `ARRAYS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) |
 | [**User class for Banking System**](7kyuKataPractices/User_class_for_Banking_System.py) |  `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5a03af9606d5b65ff7000009) |
 | [**Vowel Count**](7kyuKataPractices/Vowel_Count.py) | `STRINGS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) |
