@@ -33,12 +33,12 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 | [**Find the odd int**](6kyuKataPractices/Find_the_odd_int.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/54da5a58ea159efa38000836) |
 | [**Loose Change**](6kyuKataPractices/Loose_Change.py) | `MATHEMATICS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5571f712ddf00b54420000ee) |
 | [**Manhattan Distance**](6kyuKataPractices/Manhattan_Distance.py) | `ARRAYS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/52998bf8caa22d98b800003a) |
-| [**Mexican Wave**](6kyuKataPractices/Mexican_Wave.py) |  | [link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
+| [**Mexican Wave**](6kyuKataPractices/Mexican_Wave.py) | `ARRAYS`, `STRINGS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 | [**Multiplication table**](6kyuKataPractices/Multiplication_table.py) | `ARRAYS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) |
 | [**Potion Class 101**](6kyuKataPractices/Potion_Class_101.py) | `ALGORITHMS` | [link](https://www.codewars.com/kata/5981ff1daf72e8747d000091) |
 | [**Stop gninnipS My sdroW!**](6kyuKataPractices/Stop_gninnipS_My_sdroW.py) | `STRINGS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/5264d2b162488dc400000001) |
-| [**The Supermarket Queue**](6kyuKataPractices/The_Supermarket_Queue.py) | `DATA STRUCTURES`, `ALGORITHMS` | [link]() |
-| [**Tic-Tac-Toe-like table Generator**](6kyuKataPractices/Tic_Tac_Toe_like_table_Generator.py) | `ARRAYS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) |
+| [**The Supermarket Queue**](6kyuKataPractices/The_Supermarket_Queue.py) | `ARRAYS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) |
+| [**Tic-Tac-Toe-like table Generator**](6kyuKataPractices/Tic_Tac_Toe_like_table_Generator.py) | `ASCII ART`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5b817c2a0ce070ace8002be0) |
 
 <br>
 
@@ -50,7 +50,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 | Kata Practices | Tags | Codewars Link |
 |--|--|--|
-| [**Determine if the poker hand is flush**](7kyuKataPractices/Determine_if_the_poker_hand_is_flush.py) | `ARRAYS`, `ALGOTIHMS`,`LOGIC`,`STRINGS`, `GAMES`| [link](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d) |
+| [**Determine if the poker hand is flush**](7kyuKataPractices/Determine_if_the_poker_hand_is_flush.py) | `ARRAYS`, `ALGORITHMS`,`LOGIC`,`STRINGS`, `GAMES`| [link](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d) |
 | [**Growth of a Population**](7kyuKataPractices/Growth_of_a_Population.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/563b662a59afc2b5120000c6) |
 | [**Letterbox Paint-Squad**](7kyuKataPractices/Letterbox_Paint_Squad.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/597d75744f4190857a00008d) |
 | [**Password maker**](7kyuKataPractices/Password_maker.py) | `STRINGS`, `REGULAR EXPRESSIONS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5637b03c6be7e01d99000046) |
@@ -73,7 +73,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 | Kata Practices | Tags | Codewars Link |
 |--|--|--|
-| [**Are You Playing Banjo?**](8kyuKataPractices/Are_You_Playing_Banjo.py) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832) |
+| [**Are You Playing Banjo?**](8kyuKataPractices/Are_You_Playing_Banjo.py) |  `STRINGS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/53af2b8861023f1d88000832) |
 | [**Area or Perimeter**](8kyuKataPractices/Area_or_Perimeter.py) | `FUNDAMENTALS`, `MATHEMATICS`, `GEOMETRY` | [link](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) |
 | [**Classy Classes**](8kyuKataPractices/Classy_Classes.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/55a144eff5124e546400005a) |
 | [**Count the Monkeys!**](8kyuKataPractices/Count_the_Monkeys.py) | `ARRAYS`, `FUNDAMENTALS`, `LISTS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) |
@@ -82,7 +82,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 | [**DNA to RNA Conversion**](8kyuKataPractices/DNA_to_RNA_Conversion.py) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
 | [**Even or Odd**](8kyuKataPractices/Even_or_Odd.py) | `MATHEMATICS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) |
 | [**Expressions Matter**](8kyuKataPractices/Expressions_Matter.py) | `ALGORITHMS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) |
-| [**Find the Slope**](8kyuKataPractices/Find_the_Slope.py) | `ALGORITHMS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/55a75e2d0803fea18f00009d) |
+| [**Find the Slope**](8kyuKataPractices/Find_the_Slope.py) | `MATHEMATICS`, `FUNDAMENTALS`, `ALGEBRA` | [link](https://www.codewars.com/kata/55a75e2d0803fea18f00009d) |
 | [**Hello, Name or World!**](8kyuKataPractices/Hello_Name_or_World.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/57e3f79c9cb119374600046b) |
 | [**Invert values**](8kyuKataPractices/Invert_values.py) | `LISTS`, `FUNDAMENTALS`, `ARRAYS` | [link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) |
 | [**Is n divisible by x and y?**](8kyuKataPractices/Is_n_divisible_by_x_and_y.py) | `REFACTORING` | [link](https://www.codewars.com/kata/5545f109004975ea66000086) |
@@ -90,7 +90,7 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 | [**Keep Hydrated!**](8kyuKataPractices/Keep_Hydrated.py) | `ALGORITHMS`, `MATHEMATICS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/582cb0224e56e068d800003c) |
 | [**Multiply**](8kyuKataPractices/Multiply.py) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/5556282156230d0e5e000089) |
 | [**Object Oriented Piracy**](8kyuKataPractices/Object_Oriented_Piracy.py) | `OBJECT-ORIENTED PROGRAMMING`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/54fe05c4762e2e3047000add) |
-| [**Opposites Attract**](8kyuKataPractices/Opposites_Attract.py) | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
+| [**Opposites Attract**](8kyuKataPractices/Opposites_Attract.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
 | [**Regular Ball Super Ball**](8kyuKataPractices/Regular_Ball_Super_Ball.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/53f0f358b9cb376eca001079) |
 | [**Return Negative**](8kyuKataPractices/Return_Negative.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
 | [**Sleigh Authentication**](8kyuKataPractices/Sleigh_Authentication.py) | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/52adc142b2651f25a8000643) |
