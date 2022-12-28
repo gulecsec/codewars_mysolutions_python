@@ -19,13 +19,27 @@ Follow [me](https://www.codewars.com/users/GulecS) 😎
 
 ---
 
+## 5kyu Kata Practices
+
+<br>
+
+| Kata Practices | Tags | Codewars Link |
+|--|--|--|
+| [**Human Readable Time**](5kyuKataPractices/Human_Readable_Time.py) | `DATE TIME`, `MATHEMATICS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
+| [**Moving Zeros To The End**](5kyuKataPractices/Moving_Zeros_To_The_End.py) | `ARRAYS`, `SORTING`, `ALGORITHMS` | [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
+
+<br>
+
+---
+
 ## 6kyu Kata Practices
 
 <br>
 
 | Kata Practices | Tags | Codewars Link |
 |--|--|--|
-| [**Arrh, grabscrab!**](6kyuKataPractices/Arrh_grabscrab.py) | `STRINGS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/52b305bec65ea40fe90007a7) |
+| [**Arrh, grabscrab!**](6kyuKataPractices/Arrh_grabscrab.py) | `STRINGS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/526571aae218b8ee490006f4) |
+| [**Bit Counting**](6kyuKataPractices/Bit_Counting.py) | `BITS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/52b305bec65ea40fe90007a7) |
 | [**Counting Duplicates**](6kyuKataPractices/Counting_Duplicates.py) | `STRINGS`, `FUNDAMENTALS` | [link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) |
 | [**Create Phone Number**](6kyuKataPractices/Create_Phone_Number.py) | `ARRAYS`,`STRINGS`,`REGULAR EXPRESSIONS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |
 | [**Sum of Digits / Digital Root**](6kyuKataPractices/Digital_Root.py) | `MATHEMATICS`, `ALGORITHMS` | [link](https://www.codewars.com/kata/541c8630095125aba6000c00) |
